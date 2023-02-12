@@ -1,1 +1,1 @@
-# gptindex
+# GPTIndex
